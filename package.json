@@ -18,7 +18,7 @@
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
-    "dotenv": "^16.0.2",
+    "dotenv": "^16.0.3",
     "nodemon": "^2.0.19",
     "standard": "^17.0.0"
   }
